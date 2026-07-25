@@ -1,0 +1,20 @@
+{
+  "name": "חישוב סטטי — ניתוח מסגרות 2D",
+  "short_name": "חישוב סטטי",
+  "description": "מחשבון ניתוח מסגרות דו־ממדי בשיטת הקשיחות הישירה — מצבי עומס, צירופים, מעטפות ודוח חישוב.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#c8cdd5",
+  "theme_color": "#d7dbe1",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
