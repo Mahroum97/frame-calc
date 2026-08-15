@@ -1,7 +1,7 @@
 /* Service worker — responsive web build of חישוב סטטי.
    Navigations: network-first (newest build when online, cache when offline).
    Everything else: cache-first. */
-const CACHE = 'frame-static-web-41730106f011';
+const CACHE = 'frame-static-web-bb4966bb5e0c';
 const ASSETS = [
   './',
   './index.html',
